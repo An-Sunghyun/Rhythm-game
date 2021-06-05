@@ -21,6 +21,7 @@
 
 #### 3) Register
 ![3회원가입](https://user-images.githubusercontent.com/53389350/120879857-66fc2680-c601-11eb-93a5-bbeca2d9819f.jpg)
+
 I didn't care much about Login and register GUI, but it looks mess lol
 
 #### 4) Database
