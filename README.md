@@ -47,3 +47,11 @@ All judgments are classified according to timing and each grade has different sc
 ![게임 플레이 화면3](https://user-images.githubusercontent.com/53389350/121283201-b26e4780-c915-11eb-8c49-c67e31f66eb0.jpg)
 
 At the end of the play, the rating is printed by calculating the percentage of the total score.
+
+## 4. Function List
+### 1) Database Connection
+### 2) Event Handling
+### 3) Note Animation(Threads)
+### 4) Score Rating
+### 5) Music auto play
+### 6) Login & Register
