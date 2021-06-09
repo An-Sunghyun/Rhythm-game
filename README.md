@@ -19,25 +19,31 @@ The database basically has member information and CD key information. Through th
 ## 4. View
 ### 1) Login
 ![1로그인](https://user-images.githubusercontent.com/53389350/121283099-89e64d80-c915-11eb-9d0d-e72d2b0282ef.jpg)
+
 ### 2) Register
 ![3회원가입](https://user-images.githubusercontent.com/53389350/121283121-923e8880-c915-11eb-97fd-5fe5e6a82d0e.jpg)
+
 I didn't care much about login&register GUI, so it looks mess lol
 
 ### 3) Main Frame 
 ![메인 배경화면](https://user-images.githubusercontent.com/53389350/121283146-9bc7f080-c915-11eb-9c4c-da0a20f91ce2.jpg)
+
 On the main screen, there are start and end buttons, and when you click the start button, you will be moved to the song selection screen.
 The background music will play automatically when you launch the program.
 
 ### 4) Music Selection
 ![곡 선택화면](https://user-images.githubusercontent.com/53389350/121283157-a1bdd180-c915-11eb-9e2d-59d0360e29d9.jpg)
+
 On the song selection screen, the corresponding song is automatically played and the song can be switched by pressing the arrow button.
 
 ### 5) Game Play
 ![게임 플레이 화면1](https://user-images.githubusercontent.com/53389350/121283166-a6828580-c915-11eb-99a9-d918fb343dd2.jpg)
 ![게임 플레이 화면2](https://user-images.githubusercontent.com/53389350/121283183-ac786680-c915-11eb-84bd-6cb85539ad89.jpg)
+
 On the play screen, when the button is pressed according to the timing, the note is judged through event processing.
 All judgments are classified according to timing and each grade has different scores. Such as Great, Perfect, miss and so on.
 
 ### 6) Score
 ![게임 플레이 화면3](https://user-images.githubusercontent.com/53389350/121283201-b26e4780-c915-11eb-8c49-c67e31f66eb0.jpg)
+
 At the end of the play, the rating is printed by calculating the percentage of the total score.
